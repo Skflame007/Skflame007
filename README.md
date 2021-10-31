@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Skflame007
-- 👀 I’m interested in ...lot of stuff
-- 🌱 I’m currently learning ... web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Salim Khalfouni
+- 👀 I’m interested in ...lot of stuff including making sites and apps
+- 🌱 I’m currently learning ... web development right now im focused on react
+- 💞️ I’m looking to collaborate on ... anything basically 
 - 📫 How to reach me ...contact me: salimkhalfouni23@gmail.com
 
 <!---
